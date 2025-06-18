@@ -6,6 +6,7 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
 
 ## 📋 Requisitos del Entorno Local
 
+- **WordPress 6.x (recomendado 6.5.3 o superior)**
 - **XAMPP (PHP 7.4 o superior, MySQL)**
 - **Composer (para librerías PHP externas)**
 
@@ -99,7 +100,36 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
 
 ## 📸 Capturas de Pantalla
 
-*Incluir capturas relevantes en carpeta **`assets`**.*
+### Sobre Mí
+
+**Presentación personal en versión escritorio:**  
+<img src="assets/Captura%201%20Sobre%20Mi.png" alt="Presentación personal Escritorio" width="100%"/>
+
+**Sección de tecnologías y estudios (desktop):**  
+<img src="assets/Captura%202%20Sobre%20Mi.png" alt="Tecnologías y estudios Escritorio" width="100%"/>
+
+**Vista responsiva de la sección 'Sobre mí' en móvil:**  
+<img src="assets/Captura%203%20Sobre%20Mi.png" alt="Sobre mí Móvil" width="350"/>
+
+---
+
+### Proyectos
+
+**Portafolio de proyectos (versión escritorio):**  
+<img src="assets/Captura%204%20Proyectos.png" alt="Portafolio Proyectos Escritorio" width="100%"/>
+
+**Filtrado de proyectos por categoría, resaltando categoría activa:**  
+<img src="assets/Captura%205%20Proyectos.png" alt="Filtrado Proyectos Categoría" width="100%"/>
+
+---
+
+### Contacto
+
+**Página de contacto responsiva:**  
+<img src="assets/Captura%206%20Contacto.png" alt="Contacto Móvil" width="350"/>
+
+**Formulario de contacto funcional y accesible:**  
+<img src="assets/Captura%207%20Contacto.png" alt="Formulario Contacto" width="100%"/>
 
 ---
 
