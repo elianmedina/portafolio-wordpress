@@ -1,0 +1,10 @@
+/*
+Theme Name: Portfolio Child Theme
+Template: hello-elementor
+Version: 1.0
+*/
+@import url('https://fonts.googleapis.com/css2?family=Gafata&display=swap');
+
+body {
+  font-family: 'Gafata', sans-serif;
+}

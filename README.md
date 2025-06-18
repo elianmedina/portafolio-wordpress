@@ -56,45 +56,60 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
    http://localhost/wordpress/
    ```
 
+
 ---
 
+  
+
 ## 🖌️ Enfoque de Diseño y Desarrollo
+
 El desarrollo del portafolio estuvo guiado por los principios de claridad, modernidad, accesibilidad y adaptabilidad, asegurando una experiencia profesional y agradable tanto en desktop como en móvil:
 
-- **Child Theme sobre Hello Elementor:** Se utilizó un child theme personalizado basado en Hello Elementor para garantizar un diseño ligero y altamente personalizable, manteniendo compatibilidad con futuras actualizaciones y facilitando la integración de estilos propios.
+  
 
-- **Identidad visual unificada:**
-La paleta de colores (fondos suaves, azules intensos y naranjas para elementos destacados) transmite modernidad y profesionalismo, asegurando alto contraste y accesibilidad. El uso de la fuente Gafata aporta coherencia visual en títulos, descripciones y botones.
+-  **Child Theme sobre Hello Elementor:** Se utilizó un child theme personalizado basado en Hello Elementor para garantizar un diseño ligero y altamente personalizable, manteniendo compatibilidad con futuras actualizaciones y facilitando la integración de estilos propios.
 
-- **Diseño responsive y accesible:**
-El layout, los tamaños de fuente y los espaciados se adaptan perfectamente desde grandes pantallas hasta dispositivos móviles.
+  
 
-En desktop, la información se presenta en columnas, con imágenes amplias y botones bien espaciados.
+-  **Identidad visual unificada:** La paleta de colores (fondos suaves, azules intensos y naranjas para elementos destacados) transmite modernidad y profesionalismo, asegurando alto contraste y accesibilidad. El uso de la fuente Gafata aporta coherencia visual en títulos, descripciones y botones.
 
-En móvil, el contenido se reorganiza a una sola columna y los elementos se ajustan para una interacción cómoda.
-Se emplean etiquetas HTML5 semánticas, foco visible en los inputs y colores accesibles para cumplir buenas prácticas de accesibilidad.
+  
 
-- **Componentes visuales personalizados:**
-Cards para proyectos, botones y formularios siguen una estética limpia, con bordes redondeados, sombras suaves y jerarquía visual clara.
+-  **Diseño responsive y accesible:** El layout, los tamaños de fuente y los espaciados se adaptan perfectamente desde grandes pantallas hasta dispositivos móviles.
 
-Las cards muestran imagen, título, categoría y descripción, permitiendo filtrado dinámico por categoría.
+  
 
-Los botones mantienen estilos consistentes y cambian de color al interactuar.
+	 - En desktop, la información se presenta en columnas, con imágenes     
+   amplias y botones bien espaciados.
 
-- **Animaciones y micro-interacciones:**
-El sitio incluye animaciones sutiles para mejorar la experiencia:
+	 - En móvil, el contenido se reorganiza a una sola columna y los elementos se ajustan para una interacción cómoda.
 
-Hover sobre cards: se elevan, giran y muestran la descripción animada.
+	Se emplean etiquetas HTML5 semánticas, foco visible en los inputs y colores accesibles para cumplir buenas prácticas de accesibilidad.
 
-Botones: transiciones de color y escala al pasar el cursor o seleccionarlos.
+-  **Componentes visuales personalizados:** Cards para proyectos, botones y formularios siguen una estética limpia, con bordes redondeados, sombras suaves y jerarquía visual clara.
 
-Filtros y formularios presentan transiciones suaves para reforzar dinamismo.
+	Las cards muestran imagen, título, categoría y descripción, permitiendo filtrado dinámico por categoría y los botones mantienen estilos consistentes y cambian de color al interactuar.
 
-- **Formularios accesibles y consistentes:**
-El formulario de contacto (Contact Form 7) es claro, estilizado y fácil de usar, con validación visible y botón de envío centrado en todos los dispositivos.
+  
 
-- **Optimización visual y de usabilidad:**
-La navegación es simple, con menús claros y zonas interactivas amplias. Los botones de la home permiten desplazarse rápidamente a las secciones clave del sitio.
+-  **Animaciones y micro-interacciones:** El sitio incluye animaciones sutiles para mejorar la experiencia:
+
+  
+
+	- Hover sobre cards: se elevan, giran y muestran la descripción animada.
+
+	- Botones: transiciones de color y escala al pasar el cursor o seleccionarlos.
+
+
+	- Filtros y formularios presentan transiciones suaves para reforzar dinamismo.
+
+  
+
+-  **Formularios accesibles y consistentes:** El formulario de contacto (Contact Form 7) es claro, estilizado y fácil de usar, con validación visible y botón de envío centrado en todos los dispositivos.
+
+-  **Optimización visual y de usabilidad:** La navegación es simple, con menús claros y zonas interactivas amplias. Los botones de la home permiten desplazarse rápidamente a las secciones clave del sitio.
+
+  
 
 ---
 
