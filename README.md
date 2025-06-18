@@ -59,11 +59,42 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
 ---
 
 ## 🖌️ Enfoque de Diseño y Desarrollo
+El desarrollo del portafolio estuvo guiado por los principios de claridad, modernidad, accesibilidad y adaptabilidad, asegurando una experiencia profesional y agradable tanto en desktop como en móvil:
 
-- **Tema:** Child theme basado en Hello Elementor.
-- **Diseño responsive y accesible:** HTML5 semántico, alto contraste, adaptado a móviles.
-- **CSS Personalizado:** Fuente "Gafata", estilos consistentes para cards, botones, formularios.
-- **Animaciones sutiles:** Efectos hover en cards y botones.
+- **Child Theme sobre Hello Elementor:** Se utilizó un child theme personalizado basado en Hello Elementor para garantizar un diseño ligero y altamente personalizable, manteniendo compatibilidad con futuras actualizaciones y facilitando la integración de estilos propios.
+
+- **Identidad visual unificada:**
+La paleta de colores (fondos suaves, azules intensos y naranjas para elementos destacados) transmite modernidad y profesionalismo, asegurando alto contraste y accesibilidad. El uso de la fuente Gafata aporta coherencia visual en títulos, descripciones y botones.
+
+- **Diseño responsive y accesible:**
+El layout, los tamaños de fuente y los espaciados se adaptan perfectamente desde grandes pantallas hasta dispositivos móviles.
+
+En desktop, la información se presenta en columnas, con imágenes amplias y botones bien espaciados.
+
+En móvil, el contenido se reorganiza a una sola columna y los elementos se ajustan para una interacción cómoda.
+Se emplean etiquetas HTML5 semánticas, foco visible en los inputs y colores accesibles para cumplir buenas prácticas de accesibilidad.
+
+- **Componentes visuales personalizados:**
+Cards para proyectos, botones y formularios siguen una estética limpia, con bordes redondeados, sombras suaves y jerarquía visual clara.
+
+Las cards muestran imagen, título, categoría y descripción, permitiendo filtrado dinámico por categoría.
+
+Los botones mantienen estilos consistentes y cambian de color al interactuar.
+
+- **Animaciones y micro-interacciones:**
+El sitio incluye animaciones sutiles para mejorar la experiencia:
+
+Hover sobre cards: se elevan, giran y muestran la descripción animada.
+
+Botones: transiciones de color y escala al pasar el cursor o seleccionarlos.
+
+Filtros y formularios presentan transiciones suaves para reforzar dinamismo.
+
+- **Formularios accesibles y consistentes:**
+El formulario de contacto (Contact Form 7) es claro, estilizado y fácil de usar, con validación visible y botón de envío centrado en todos los dispositivos.
+
+- **Optimización visual y de usabilidad:**
+La navegación es simple, con menús claros y zonas interactivas amplias. Los botones de la home permiten desplazarse rápidamente a las secciones clave del sitio.
 
 ---
 
@@ -102,33 +133,33 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
 
 ### Sobre Mí
 
-**Presentación personal en versión escritorio:**  
+**Presentación personal (escritorio):**  
 <img src="assets/Captura%201%20Sobre%20Mi.png" alt="Presentación personal Escritorio" width="100%"/>
 
-**Sección de tecnologías y estudios (desktop):**  
+**Sección de tecnologías y estudios (escritorio):**  
 <img src="assets/Captura%202%20Sobre%20Mi.png" alt="Tecnologías y estudios Escritorio" width="100%"/>
 
-**Vista responsiva de la sección 'Sobre mí' en móvil:**  
+**Vista responsiva de la sección 'Sobre mí' (móvil):**  
 <img src="assets/Captura%203%20Sobre%20Mi.png" alt="Sobre mí Móvil" width="350"/>
 
 ---
 
 ### Proyectos
 
-**Portafolio de proyectos (versión escritorio):**  
+**Portafolio de proyectos (escritorio):**  
 <img src="assets/Captura%204%20Proyectos.png" alt="Portafolio Proyectos Escritorio" width="100%"/>
 
-**Filtrado de proyectos por categoría, resaltando categoría activa:**  
+**Filtrado de proyectos por categoría, resaltando categoría activa (tablet):**  
 <img src="assets/Captura%205%20Proyectos.png" alt="Filtrado Proyectos Categoría" width="100%"/>
 
 ---
 
 ### Contacto
 
-**Página de contacto responsiva:**  
+**Página de contacto (móvil):**  
 <img src="assets/Captura%206%20Contacto.png" alt="Contacto Móvil" width="350"/>
 
-**Formulario de contacto funcional y accesible:**  
+**Formulario de contacto funcional y accesible (escritorio):**  
 <img src="assets/Captura%207%20Contacto.png" alt="Formulario Contacto" width="100%"/>
 
 ---
