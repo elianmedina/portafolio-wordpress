@@ -59,6 +59,15 @@ Este proyecto es un sitio informativo tipo portafolio, desarrollado con WordPres
 
 ---
 
+### 🐳 Levantar entorno local con Docker (opcional)
+
+1. Instala [Docker Desktop](https://www.docker.com/products/docker-desktop/) y asegúrate de tener [docker-compose](https://docs.docker.com/compose/).
+2. Clona el repositorio y coloca el archivo `docker-compose.yml` en la raíz del proyecto.
+3. Desde terminal, ejecuta:
+   ```bash
+   docker-compose up -d
+
+---
   
 
 ## 🖌️ Enfoque de Diseño y Desarrollo
